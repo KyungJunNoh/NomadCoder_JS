@@ -1,6 +1,7 @@
-function sayHello(){
-    console.log('hello!');
+if(10 === 5){
+    console.log("hi");
+} else {
+    console.log("ho");
 }
 
-sayHello();
-console.log("hi!");
+const lalala
