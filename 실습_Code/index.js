@@ -1,7 +1,5 @@
-if(10 === 5){
-    console.log("hi");
-} else {
-    console.log("ho");
+if (20 >5 && "nicolas"==="nicolas"){
+    console.log("Yes")
+} else{
+    console.log("No")
 }
-
-const lalala
